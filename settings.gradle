@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "tais_exam_uni_i"

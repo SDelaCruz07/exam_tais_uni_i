@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "354786088680",
+    "firebase_url": "https://examen-tais-uni-i-default-rtdb.firebaseio.com",
+    "project_id": "examen-tais-uni-i",
+    "storage_bucket": "examen-tais-uni-i.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354786088680:android:1348ffea6d9272b6b91b5d",
+        "android_client_info": {
+          "package_name": "com.example.tais_exam_uni_i"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354786088680-gokhu7ta75sesb4qn79e3pa9gf94h9u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT7oQdZojT-rGB-Kk-Su3134GtdU822k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354786088680-gokhu7ta75sesb4qn79e3pa9gf94h9u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
